@@ -1,0 +1,4 @@
+git clone https://github.com/SamurAIGPT/Text-To-Video-AI.git
+cd Text-To-Video-AI
+pip install -r requirements.txt 
+sudo apt install imagemagick ffmpeg
